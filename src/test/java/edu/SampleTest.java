@@ -8,9 +8,7 @@ class SampleTest {
 
     @Test
     void add() {
-    }
-
-    @Test
-    void multiply() {
+        Sample sample = new Sample();
+        assertEquals("dog", sample.reverseString("god"));
     }
 }

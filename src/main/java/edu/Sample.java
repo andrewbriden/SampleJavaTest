@@ -1,11 +1,11 @@
 package edu;
 
 public class Sample {
-    public double add(double arg1, double arg2){
-        return arg1 + arg2;
-    }
-
-    public double multiply(double arg1, double arg2){
-        return arg1*arg2;
+    public String reverseString(String str) {
+        String reversed = "";
+        for (int i = str.length() - 1; i >= 0; i--) {
+            reversed += str.charAt(i);
+        }
+        return reversed;
     }
 }
