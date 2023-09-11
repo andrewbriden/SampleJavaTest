@@ -1,8 +1,8 @@
 # Java Project with Gradle and GitHub
 
-**Name:** Andrew Briden
-**Course:** Software Design
-**Date:** September 11, 2023
+**Name:** Andrew Briden   
+**Course:** Software Design   
+**Date:** September 11, 2023    
 
 ## Project Overview
 
